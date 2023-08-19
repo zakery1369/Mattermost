@@ -1,1 +1,1 @@
-*.yml linguist-detectable=true
+*.yml *.service linguist-detectable=true
